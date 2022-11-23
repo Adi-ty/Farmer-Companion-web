@@ -1,0 +1,56 @@
+.navbar {
+	width: 100%;
+	height: 70px;
+	background-color: black;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.navbar h1 {
+	color: pink;
+	font-size: 25px;
+	margin-left: 20px;
+}
+
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: normal;
+    padding: auto;
+    color: white;
+}
+
+.left button{
+    padding: 10px;
+}
+
+.white_btn {
+	border: none;
+	outline: none;
+	padding: 12px 0;
+    color: pink;
+	background-color: white;
+	border-radius: 20px;
+	width: 120px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+	margin-right: 20px;
+}
+
+.home{
+
+}
+
+.footer-text {
+	text-align: center;
+	/* color: #868e96; */
+	font-weight: bold;
+	font-family: "Google Sans Regular";
+}
+  
+.footer-div {
+	margin-top: 2rem;
+}
