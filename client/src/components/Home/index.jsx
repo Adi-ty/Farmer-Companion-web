@@ -29,7 +29,7 @@ function Home() {
 				</Link>
             </div>
         </nav>
-        <div className={styles.home}>
+        <div className={styles.home} >
             <h1>Farmer Companion</h1>
             <h3>Making farming in India easier.</h3>
             <button className={styles.btn_android}><IoLogoGooglePlaystore className={styles.download} /> Download</button>
