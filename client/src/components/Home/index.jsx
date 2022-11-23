@@ -1,4 +1,6 @@
 import React from 'react';
+import {IoLogoGooglePlaystore} from 'react-icons/io5'
+import {AiFillApple} from 'react-icons/ai'
 import {Link} from "react-router-dom"
 import styles from "./styles.module.css"
 
@@ -28,7 +30,10 @@ function Home() {
             </div>
         </nav>
         <div className={styles.home}>
-
+            <h1>Farmer Companion</h1>
+            <h3>Making farming in India easier.</h3>
+            <button className={styles.btn_android}><IoLogoGooglePlaystore className={styles.download} /> Download</button>
+            <button className={styles.btn_apple}><AiFillApple className={styles.download} /> Download</button>
         </div>
         
     </div>
