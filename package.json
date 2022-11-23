@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@emotion/styled": "^11.10.4",
+    "@mui/styles": "^5.10.10"
+  }
+}
