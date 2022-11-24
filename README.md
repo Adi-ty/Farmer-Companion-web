@@ -16,5 +16,5 @@
  <li>Material UI</li>
  </ul>
 <h2>Screenshot</h2>
-<hr><img src="https://raw.githubusercontent.com/labmember003/farmer_companion_bpit/main/screenshots/1.png" />
+<hr><img  src="https://raw.githubusercontent.com/labmember003/farmer_companion_bpit/main/screenshots/1.png" width=250 />
 <img src="https://raw.githubusercontent.com/labmember003/farmer_companion_bpit/main/screenshots/2.png" />
