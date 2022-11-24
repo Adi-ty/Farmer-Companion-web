@@ -23,3 +23,7 @@ cd Farmer-Companion-Web
 5. MongoDB
 6. React.JS
 7. Material UI
+
+## Screenshot
+
+<img src="./Images/home.png" />
