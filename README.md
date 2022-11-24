@@ -16,10 +16,5 @@
  <li>Material UI</li>
  </ul>
 <h2>Screenshot</h2>
-<hr><img  src="https://raw.githubusercontent.com/labmember003/farmer_companion_bpit/main/screenshots/1.png" width=250 />
-<img src="https://raw.githubusercontent.com/labmember003/farmer_companion_bpit/main/screenshots/2.png" width=250 />
-<img src="https://raw.githubusercontent.com/labmember003/farmer_companion_bpit/main/screenshots/3.png" width=250 />
-<img src="https://raw.githubusercontent.com/labmember003/farmer_companion_bpit/main/screenshots/4.png" width=250 />
-<img src="https://raw.githubusercontent.com/labmember003/farmer_companion_bpit/main/screenshots/5.png" width=250 />
-<img src="https://raw.githubusercontent.com/labmember003/farmer_companion_bpit/main/screenshots/6.png" width=250 />
-
+<hr><img  src="./Images/home.png" />
+<img src=".Images/login.png" />
